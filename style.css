@@ -1,0 +1,176 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #4a90e2;
+  color: white;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #e0e0e0;
+  padding: 15px;
+  font-size: 0.9em;
+  color: #444;
+  margin-top: 40px;
+}
+
+/* Barra del mes */
+.barra-mes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.barra-mes button {
+  font-size: 1.2em;
+  padding: 5px 10px;
+  border: none;
+  background-color: #4a90e2;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.barra-mes button:hover {
+  background-color: #357ac8;
+}
+
+#mes {
+  font-size: 1.5em;
+  color: #2b2b2b;
+}
+
+/* Contenedor general de calendario */
+#calendario {
+  max-width: 950px;
+  margin: auto;
+}
+
+/* Días de la semana (L M M J V S D) */
+#dias-semana {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  font-weight: bold;
+  color: #555;
+  margin: 10px 0 5px 0;
+}
+
+#dias-semana div {
+  padding: 8px;
+}
+
+/* Cuadrícula de días */
+#dias {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.dia {
+  background-color: #fff;
+  border: 2px solid #4a90e2;
+  border-radius: 12px;
+  padding: 10px;
+  font-weight: bold;
+  min-height: 60px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dia:hover {
+  background-color: #dbefff;
+}
+
+/* Popup */
+.popup {
+  position: fixed;
+  top: 15%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #fffbe6;
+  border: 2px solid #f2c94c;
+  border-radius: 12px;
+  padding: 20px;
+  width: 90%;
+  max-width: 400px;
+  height: 400px;
+  overflow-y: auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  text-align: left;
+}
+
+.popup::-webkit-scrollbar {
+  width: 8px;
+}
+.popup::-webkit-scrollbar-thumb {
+  background-color: #aaa;
+  border-radius: 10px;
+}
+.popup::-webkit-scrollbar-track {
+  background-color: #f2f2f2;
+}
+
+/* Botones del popup */
+.popup button {
+  margin-top: 8px;
+  padding: 6px 12px;
+  background: #f7d774;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.95em;
+}
+
+.popup button:hover {
+  background-color: #f4c43d;
+}
+
+/* Botón cerrar */
+.cerrar-popup {
+  float: right;
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #666;
+}
+
+.cerrar-popup:hover {
+  color: #000;
+}
+
+/* Textarea */
+textarea {
+  font-size: 0.95em;
+  margin-top: 8px;
+  padding: 8px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  resize: vertical;
+  width: 100%;
+}
