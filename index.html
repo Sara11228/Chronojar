@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chronojar - Calendario Amigable</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🧠 Chronojar - Tu Calendario Amigo</h1>
+    <p>Tu asistente diario para recordar, moverte y sonreír 😊</p>
+  </header>
+
+  <main>
+    <section id="calendario">
+      <div class="barra-mes">
+        <button onclick="cambiarMes(-1)">⬅️</button>
+        <h2 id="mes"></h2>
+        <button onclick="cambiarMes(1)">➡️</button>
+      </div>
+
+      <!-- ✅ Encabezado de días de la semana -->
+      <div id="dias-semana">
+        <div>L</div>
+        <div>M</div>
+        <div>M</div>
+        <div>J</div>
+        <div>V</div>
+        <div>S</div>
+        <div>D</div>
+      </div>
+
+      <!-- 📅 Días del calendario -->
+      <div id="dias" class="grid-calendario"></div>
+    </section>
+
+    <!-- Asistente virtual -->
+    <section id="asistente">
+      <button onclick="hablarChronojar()">🎤 Hablar con Chronojar</button>
+      <p id="respuestaChronojar">Hola, soy Chronojar. ¿En qué puedo ayudarte?</p>
+    </section>
+  </main>
+
+  <!-- Popup dinámico -->
+  <div id="popup-container"></div>
+
+  <footer>
+    <p>Creado por Sara 💗 Para ayudar a personas con Alzheimer</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
