@@ -1520,13 +1520,13 @@ const actividadesPorDia = {
   254: {
   memoria: "Recordar el sabor de una naranja dulce y jugosa.",
   ejercicio: ["Inclinar la cabeza hacia adelante (mirando el pecho) y luego levantar", "Empujar las manos hacia adelante, como si estiraras gomas", "Sentado, tocar con el talón el suelo adelante y atrás", "Estirar los brazos hacia arriba y luego bajarlos a los lados del cuerpo", "Levantar los dedos de los pies y extenderlos"],
-  adivinanza: { pregunta: "Te alegra el dia y lo puedes escuchar", respuesta: "La musica" },
+  adivinanza: { pregunta: "No soy reloj y doy las horas; no soy gallo y canto al amanecer", respuesta: "El campanario" },
   frase: "«Cuando todo parezca ir en tu contra, recuerda que un avión despega contra el viento, no a favor de él». — Henry Ford"
   },
   255: {
   memoria: "Sentir el toque de una flor suave como una rosa.",
   ejercicio: ["Girar el tronco suavemente de lado a lado (sentado, como un baile)", "Levantar los brazos extendidos por los lados hasta la altura de los hombros", "Sentadillas muy suaves apoyándose en el respaldo de una silla", "Cerrar los ojos y respirar hondo, luego abrirlos lentamente", "Mover los tobillos dibujando círculos con los pies en el aire"],
-  adivinanza: { pregunta: "Tiene pétalos y huele bien. ¿Qué es?", respuesta: "La flor" },
+  adivinanza: { pregunta: "Vuelo sin alas, canto sin voz y cruzo mares sin mojarme.", respuesta: "El viento." },
   frase: "«No siempre puedes controlar lo que sucede ahí fuera. Pero siempre puedes controlar lo que sucede aquí adentro». — Wayne Dyer"
   },
   256: {
@@ -1538,301 +1538,301 @@ const actividadesPorDia = {
   257: {
   memoria: "Recordar el sabor de una taza de chocolate caliente.",
   ejercicio: ["Flexionar el cuello hacia adelante, mirando el pecho, y levantar", "Estirar los brazos hacia el cielo, como si quisieras alcanzar algo", "Levantar una rodilla al pecho, con las manos si es necesario, alternando", "Abrir y cerrar los pies del suelo, solo un poquito", "Mover la cabeza muy suavemente de lado a lado"],
-  adivinanza: { pregunta: "Es dulce y caliente, y lo bebes en invierno. ¿Qué es?", respuesta: "El chocolate caliente" },
+  adivinanza: { pregunta: "Cuanto más lavo, más sucio quedo.", respuesta: "El agua." },
   frase: "«Empieza donde estás. Usa lo que tienes. Haz lo que puedas». — Arthur Ashe"
   },
   258: {
   memoria: "Sentir la textura suave de un pañuelo de tela.",
   ejercicio: ["Girar las muñecas en círculos lentos", "Levantar los codos hacia los lados, como alas, y bajarlos", "Tocar el suelo con la punta del pie, alternando", "Llevar las manos a los hombros y hacer pequeños círculos con los codos", "Mover los pies hacia adentro y hacia afuera, como limpiaparabrisas"],
-  adivinanza: { pregunta: "Lo usas para limpiar la nariz. ¿Qué es?", respuesta: "El pañuelo" },
+  adivinanza: { pregunta: "Tengo agujas pero no pincho; vueltas doy sin caminar.", respuesta: "El reloj." },
   frase: "«El entusiasmo supera al talento cuando el talento no se entusiasma». — Ross Simmonds"
   },
   259: {
   memoria: "Pensar en el sonido suave de una nana.",
   ejercicio: ["Mover la cabeza de lado a lado, como si dijeras no, muy suave", "Estirar un brazo hacia adelante y luego el otro", "Levantar las puntas de los pies y bajarlas, estando de pie", "Doblar los brazos y estirarlos hacia los lados", "Presionar los dedos de los pies contra el suelo"],
-  adivinanza: { pregunta: "Es una canción para dormir a los bebés. ¿Qué es?", respuesta: "La nana" },
+  adivinanza: { pregunta: "Nace en la boca, muere en el oído y solo existe si hay dos.", respuesta: "La conversación." },
   frase: "«Todo lo que siempre has deseado está al otro lado del miedo». — George Addair"
   },
   260: {
   memoria: "Recordar el color blanco de la leche.",
   ejercicio: ["Mover los hombros hacia atrás en círculos suaves", "Sentado, deslizar un pie hacia adelante y hacia atrás", "Levantar las rodillas una a la vez, como si marchas sentado", "Estirar los brazos hacia arriba y luego bajarlos a los lados", "Cerrar los ojos suavemente y luego abrirlos"],
-  adivinanza: { pregunta: "Es blanca y la dan las vacas. ¿Qué es?", respuesta: "La leche" },
+  adivinanza: { pregunta: "Me rompen al nombrarme y me guardan en silencio.", respuesta: "El secreto." },
   frase: "«La pregunta no es quién va a dejarme hacerlo: la pregunta es quién tratará de impedírmelo». — Ayn Rand"
   },
   261: {
   memoria: "Sentir el tacto de una pluma ligera.",
   ejercicio: ["Inclinar la cabeza hacia adelante (mirando el pecho) y luego hacia atrás (mirando el techo)", "Empujar las manos hacia adelante con las palmas juntas", "Sentadillas muy suaves con las manos apoyadas en una mesa", "Doblar y estirar los dedos de las manos rítmicamente", "Mover los pies haciendo pequeños círculos en el aire"],
-  adivinanza: { pregunta: "Es ligera y cae de los pájaros. ¿Qué es?", respuesta: "La pluma" },
+  adivinanza: { pregunta: "Entro en la casa, ilumino la sala, pero si soplas me voy.", respuesta: "La vela." },
   frase: "«No he fracasado. Solo me he encontrado con 10.000 formas en las que esto no funciona». — Thomas Edison"
   },
   262: {
   memoria: "Pensar en el olor de las galletas recién horneadas.",
   ejercicio: ["Mover la cabeza muy suavemente de lado a lado", "Levantar los hombros hacia las orejas y bajarlos lentamente", "Sentarse y levantar una rodilla un poquito, alternando", "Abrir y cerrar las manos suavemente", "Mover los pies en círculos pequeños sentado"],
-  adivinanza: { pregunta: "Son dulces y se hornean en el horno. ¿Qué son?", respuesta: "Las galletas" },
+  adivinanza: { pregunta: "Subo cuando baja, bajo cuando sube y nunca me quedo quieta.", respuesta: "La marea." },
   frase: "«No te preocupes por el fracaso: basta con que lo hagas bien una vez». — Drew Houston"
   },
   263: {
   memoria: "Recordar el sabor de una pera jugosa.",
   ejercicio: ["Estirar los brazos hacia adelante, como si abrazaras algo", "Flexionar suavemente los codos (como si trajeras una taza a la boca)", "Levantar un talón del suelo y luego el otro, sentado", "Estirar un brazo hacia el lado y mirar la mano", "Mover los dedos de los pies (arriba y abajo)"],
-  adivinanza: { pregunta: "Es una fruta, verde o amarilla, y es jugosa. ¿Qué es?", respuesta: "La pera" },
+  adivinanza: { pregunta: "Guardo palabras sin tener boca e historias sin memoria.", respuesta: "El libro." },
   frase: "«Llevas contigo el pasaporte a tu propia felicidad». — Diane Von Furstenberg"
   },
   264: {
   memoria: "Sentir el sonido de un río que corre suavemente.",
-  ejercicio:["Inclinar la cabeza suavemente hacia un hombro y luego al otro", "Empujar las palmas de las manos hacia adelante, como si empujaras una pared invisible", "Sentarse y levantar las rodillas alternando, como si marcharas", "Entrelazar los dedos de las manos y estirar los brazos hacia adelante", "Mover los tobillos en pequeños círculos"],  adivinanza: { pregunta: "Corre y no tiene pies, y lleva agua. ¿Qué es?", respuesta: "El río" },
+  ejercicio:["Inclinar la cabeza suavemente hacia un hombro y luego al otro", "Empujar las palmas de las manos hacia adelante, como si empujaras una pared invisible", "Sentarse y levantar las rodillas alternando, como si marcharas", "Entrelazar los dedos de las manos y estirar los brazos hacia adelante", "Mover los tobillos en pequeños círculos"],  adivinanza: { pregunta: "No soy camino y tengo huellas; no soy mar y tengo olas.", respuesta: "La arena." },
   frase: "Nunca dejes que el éxito se te suba a la cabeza y nunca dejes que el fracaso se te suba al corazón"
   },
   265: {
   memoria: "Pensar en el olor del césped recién cortado.",
   ejercicio: ["Girar el tronco suavemente de lado a lado (sentado)", "Levantar los brazos extendidos por los lados, hasta la altura de los hombros", "Sentadillas muy suaves con apoyo en una silla", "Abrir los dedos de las manos y cerrarlos lentamente", "Poner los pies planos en el suelo y levantar solo los dedos"],
-  adivinanza: { pregunta: "Es verde y lo cortan con una máquina. ¿Qué es?", respuesta: "El césped" },
+  adivinanza: { pregunta: "Puedo cruzar paredes sin romperlas y viajo más rápido que el tren.", respuesta: "El pensamiento." },
   frase: "«Las ideas sin ejecución son solo sueños». — Robin Sharma"
   },
   266: {
   memoria: "Recordar el color azul del mar en un día despejado.",
   ejercicio: ["Mover los hombros en círculos suaves hacia adelante", "Estirar una pierna hacia adelante, sin levantarla mucho del suelo", "Levantar los talones del suelo a la vez, y bajarlos suavemente", "Mover los brazos hacia adelante y hacia atrás, como un péndulo", "Estirar los dedos de las manos uno por uno"],
-  adivinanza: { pregunta: "Es muy grande y tiene agua salada. ¿Qué es?", respuesta: "El mar" },
+  adivinanza: { pregunta: "Piso sin pies, corro sin piernas y dejo rastro sin manos.", respuesta: "El tiempo." },
   frase: "«Asegúrate de que tu peor enemigo no vive entre tus dos orejas». — Laird Hamilton"
   },
   267: {
   memoria: "Sentir la textura suave de una bufanda de lana.",
   ejercicio: ["Flexionar el cuello hacia adelante, mirando el pecho, y levantar", "Estirar los brazos hacia el cielo, como si quisieras alcanzar las nubes", "Levantar una rodilla al pecho, con las manos si es necesario, alternando", "Abrir y cerrar los pies del suelo, solo un poquito", "Mover el cuello suavemente de arriba a abajo"],
-  adivinanza: { pregunta: "Te la pones en el cuello en invierno. ¿Qué es?", respuesta: "La bufanda" },
+  adivinanza: { pregunta: "Soy puente sin barandas; viajo de cara a cara y no peso nada.", respuesta: "La sonrisa." },
   frase: "«Es duro el camino que conduce a la grandeza». — Séneca"
   },
   268: {
   memoria: "Pensar en el sonido suave de las olas del mar.",
   ejercicio: ["Girar las muñecas en círculos lentos", "Levantar los codos hacia los lados, como alas, y bajarlos", "Tocar el suelo con la punta del pie, alternando", "Llevar las manos a los hombros y hacer pequeños círculos con los codos", "Mover los pies hacia adentro y hacia afuera, como limpiaparabrisas"],
-  adivinanza: { pregunta: "Suenan en la playa. ¿Qué son?", respuesta: "Las olas" },
+  adivinanza: { pregunta: "Llevo noticias sin ser cartero y viajo a todos sin moverme.", respuesta: "La radio." },
   frase: "«Lo grandioso no sucede solo por impulso, es una sucesión de pequeñas cosas que se juntan». — Vincent van Gogh"
   },
   269: {
   memoria: "Recordar el sabor dulce de un plátano maduro.",
   ejercicio: ["Mover la cabeza de lado a lado, como si dijeras no, muy suave", "Estirar un brazo hacia adelante y luego el otro", "Levantar las puntas de los pies y bajarlas, estando de pie", "Doblar los brazos y estirarlos hacia los lados", "Presionar los dedos de los pies contra el suelo"],
-  adivinanza: { pregunta: "Es una fruta amarilla y larga. ¿Qué es?", respuesta: "El plátano" },
+  adivinanza: { pregunta: "Voy de punta a punta; no soy tren ni avión; llevo voces y luces.", respuesta: "El cable." },
   frase: "«Si cuidamos los pequeños momentos, los años cuidarán de nosotros». — Maria Edgeworth"
   },
   270: {
   memoria: "Sentir el toque cálido de una taza de café.",
   ejercicio: ["Mover los hombros hacia atrás en círculos suaves", "Sentado, deslizar un pie hacia adelante y hacia atrás", "Levantar las rodillas una a la vez, como si marchas sentado", "Estirar los brazos hacia arriba y luego bajarlos a los lados", "Cerrar los ojos suavemente y luego abrirlos"],
-  adivinanza: { pregunta: "Es una bebida caliente y negra. ¿Qué es?", respuesta: "El café" },
+  adivinanza: { pregunta: "Me vistes sin tela y me guardas sin caja.", respuesta: "El recuerdo." },
   frase: "«Resiliencia es afrontar la incertidumbre con flexibilidad». — Anónimo"
   },
   271: {
   memoria: "Pensar en el sonido del viento soplando suavemente.",
   ejercicio: ["Inclinar la cabeza hacia adelante (mirando el pecho) y luego hacia atrás (mirando el techo)", "Empujar las manos hacia adelante con las palmas juntas", "Sentadillas muy suaves con las manos apoyadas en una mesa", "Doblar y estirar los dedos de las manos rítmicamente", "Mover los pies haciendo pequeños círculos en el aire"],
-  adivinanza: { pregunta: "No lo vemos, pero lo sentimos y oímos. ¿Qué es?", respuesta: "El viento" },
+  adivinanza: { pregunta: "Siempre llego, nunca falto; a veces lento, a veces pronto.", respuesta: "El mañana." },
   frase: "«A veces la magia es simplemente alguien dedicándole más tiempo a algo de lo que cualquiera podría esperar». — Raymond Joseph Teller"
   },
   272: {
   memoria: "Recordar el color amarillo del sol.",
   ejercicio: ["Mover la cabeza muy suavemente de lado a lado", "Levantar los hombros hacia las orejas y bajarlos lentamente", "Sentarse y levantar una rodilla un poquito, alternando", "Abrir y cerrar las manos suavemente", "Mover los pies en círculos pequeños sentado"],
-  adivinanza: { pregunta: "Es amarillo y brilla en el cielo. ¿Qué es?", respuesta: "El sol" },
+  adivinanza: { pregunta: "o muerdo y hago llorar; no soy pena y hago arder.", respuesta: "La cebolla." },
   frase: "«Nunca renuncies a un sueño simplemente por el tiempo que necesitarás para lograrlo. El tiempo pasará de todos modos». — Earl Nightingale"
   },
   273: {
   memoria: "Sentir la suavidad de la arena en la playa.",
   ejercicio: ["Estirar los brazos hacia adelante, como si abrazaras algo", "Flexionar suavemente los codos (como si trajeras una taza a la boca)", "Levantar un talón del suelo y luego el otro, sentado", "Estirar un brazo hacia el lado y mirar la mano", "Mover los dedos de los pies (arriba y abajo)"],
-  adivinanza: { pregunta: "Está en la playa y es muy suave. ¿Qué es?", respuesta: "La arena" },
+  adivinanza: { pregunta: "Sin manos te toco, sin voz te llamo, sin cuerpo te abrazo.", respuesta: "El sueño." },
   frase: "«La verdadera humildad no es pensar menos de uno mismo: es pensar menos en sí mismo». — Anónimo"
   },
   274: {
   memoria: "Pensar en el sabor dulce de un trozo de pan con mermelada.",
   ejercicio: ["Inclinar la cabeza suavemente hacia un hombro y luego al otro", "Empujar las palmas de las manos hacia adelante, como si empujaras una pared invisible", "Sentarse y levantar las rodillas alternando, como si marcharas", "Entrelazar los dedos de las manos y estirar los brazos hacia adelante", "Mover los tobillos en pequeños círculos"],
-  adivinanza: { pregunta: "Es dulce y la pones en el pan. ¿Qué es?", respuesta: "La mermelada" },
+  adivinanza: { pregunta: "Ando por el mundo y en un rincón me quedo; me miras y te miro.", respuesta: "El espejo." },
   frase: "«Los dos días más importantes de tu vida son el día en el que naces y el día en el que descubres por qué». — Mark Twain."
   },
   275: {
   memoria: "Recordar el sonido suave de las campanas de viento.",
   ejercicio: ["Girar el tronco suavemente de lado a lado (sentado)", "Levantar los brazos extendidos por los lados, hasta la altura de los hombros", "Sentadillas muy suaves con apoyo en una silla", "Abrir los dedos de las manos y cerrarlos lentamente", "Poner los pies planos en el suelo y levantar solo los dedos"],
-  adivinanza: { pregunta: "Suenan con el viento y están hechas de metal. ¿Qué son?", respuesta: "Las campanas de viento" },
+  adivinanza: { pregunta: "No es cama y tiene patas; no es perro y tiene cola.", respuesta: "La mesa." },
   frase: "«Nada desaparece hasta que nos enseña lo que necesitamos saber». — Pema Chodron"
   },
   276: {
     memoria: "Sentir la calidez de un abrazo suave.",
     ejercicio: ["Mover los hombros en círculos suaves hacia adelante", "Estirar una pierna hacia adelante, sin levantarla mucho del suelo", "Levantar los talones del suelo a la vez, y bajarlos suavemente", "Mover los brazos hacia adelante y hacia atrás, como un péndulo", "Estirar los dedos de las manos uno por uno"],
-    adivinanza: { pregunta: "Nos lo dan para mostrar cariño. ¿Qué es?", respuesta: "Un abrazo" },
+    adivinanza: { pregunta: "Oro parece y plata no es; ábreme y lo sabrás.", respuesta: "El plátano/banano." },
     frase: "«Podemos ver a través de los demás solo cuando podemos ver a través de nosotros mismos». — Bruce Lee"
   },
   277: {
   memoria: "Pensar en el olor de un bosque después de la lluvia.",
   ejercicio: ["Flexionar el cuello hacia adelante, mirando el pecho, y levantar", "Estirar los brazos hacia el cielo, como si quisieras alcanzar las nubes", "Levantar una rodilla al pecho, con las manos si es necesario, alternando", "Abrir y cerrar los pies del suelo, solo un poquito", "Mover el cuello suavemente de arriba a abajo"],
-  adivinanza: { pregunta: "Tiene muchos árboles y huele a tierra mojada. ¿Qué es?", respuesta: "El bosque" },
+  adivinanza: { pregunta: "Blanca por dentro, verde por fuera; si quieres que te lo diga, espera.", respuesta: "La pera." },
   frase: "«La mejor salida es siempre a través». — Robert Frost"
   },
   278: {
   memoria: "Recordar el color naranja de un atardecer.",
   ejercicio: ["Girar las muñecas en círculos lentos", "Levantar los codos hacia los lados, como alas, y bajarlos", "Tocar el suelo con la punta del pie, alternando", "Llevar las manos a los hombros y hacer pequeños círculos con los codos", "Mover los pies hacia adentro y hacia afuera, como limpiaparabrisas"],
-  adivinanza: { pregunta: "Es el momento del día cuando el sol se esconde. ¿Qué es?", respuesta: "El atardecer" },
+  adivinanza: { pregunta: "Adivina, adivinanza: tengo dientes y no como; por mí pasa el peine y no me enojo.", respuesta: "La peinilla/peine" },
   frase: "«Sin lucha no hay progreso». — Frederick Douglass"
   },
   279: {
   memoria: "Sentir el sabor de una sopa caliente en un día frío.",
   ejercicio: ["Mover la cabeza de lado a lado, como si dijeras no, muy suave", "Estirar un brazo hacia adelante y luego el otro", "Levantar las puntas de los pies y bajarlas, estando de pie", "Doblar los brazos y estirarlos hacia los lados", "Presionar los dedos de los pies contra el suelo"],
-  adivinanza: { pregunta: "Es líquida, caliente y se come con cuchara. ¿Qué es?", respuesta: "La sopa" },
+  adivinanza: { pregunta: "Alta como un pino, pesa menos que un comino.", respuesta: "El humo." },
   frase: "«La valentía es como un músculo. La fortalecemos con el uso». — Ruth Gordo"
   },
   280: {
   memoria: "Pensar en el sonido suave de las burbujas en un refresco.",
   ejercicio: ["Mover los hombros hacia atrás en círculos suaves", "Sentado, deslizar un pie hacia adelante y hacia atrás", "Levantar las rodillas una a la vez, como si marchas sentado", "Estirar los brazos hacia arriba y luego bajarlos a los lados", "Cerrar los ojos suavemente y luego abrirlos"],
-  adivinanza: { pregunta: "Las vemos en un vaso de soda. ¿Qué son?", respuesta: "Las burbujas" },
+  adivinanza: { pregunta: "Si me tiras desde lo alto no me rompo; si me pones en agua me rompo.", respuesta: "El papel." },
   frase: "«Más se pierde por la indecisión que por una mala decisión». — Cicerón"
   },
   281: {
   memoria: "Recordar el color violeta de una flor.",
   ejercicio: ["Inclinar la cabeza hacia adelante (mirando el pecho) y luego hacia atrás (mirando el techo)", "Empujar las manos hacia adelante con las palmas juntas", "Sentadillas muy suaves con las manos apoyadas en una mesa", "Doblar y estirar los dedos de las manos rítmicamente", "Mover los pies haciendo pequeños círculos en el aire"],
-  adivinanza: { pregunta: "Es un color entre azul y rojo. ¿Qué es?", respuesta: "El violeta" },
+  adivinanza: { pregunta: "No se compra ni se vende, se gana con los años.", respuesta: "La experiencia." },
   frase: "«Si el principal objetivo del capitán fuera preservar su barco, lo mantendría en el puerto para siempre». — Tomás de Aquino"
   },
   282: {
   memoria: "Sentir la frescura del agua en un día caluroso.",
   ejercicio: ["Mover la cabeza muy suavemente de lado a lado", "Levantar los hombros hacia las orejas y bajarlos lentamente", "Sentarse y levantar una rodilla un poquito, alternando", "Abrir y cerrar las manos suavemente", "Mover los pies en círculos pequeños sentado"],
-  adivinanza: { pregunta: "Es transparente, la bebemos y nos refresca. ¿Qué es?", respuesta: "El agua" },
+  adivinanza: { pregunta: "Vive en el agua, muere en el aire.", respuesta: "El pez" },
   frase: "«Mantén un poco de fuego encendido: por pequeño que sea y por oculto que esté». — Cormac McCarthy"
   },
   283: {
   memoria: "Pensar en el sonido suave de la leña crepitando en el fuego.",
   ejercicio: ["Estirar los brazos hacia adelante, como si abrazaras algo", "Flexionar suavemente los codos (como si trajeras una taza a la boca)", "Levantar un talón del suelo y luego el otro, sentado", "Estirar un brazo hacia el lado y mirar la mano", "Mover los dedos de los pies (arriba y abajo)"],
-  adivinanza: { pregunta: "Hace ruido en la chimenea cuando se quema. ¿Qué es?", respuesta: "La leña" },
+  adivinanza: { pregunta: "Tengo orejas pero no oigo, tengo lomo y nunca camino.", respuesta: "El libro" },
   frase: "«La pasión y el deseo de autenticidad de la gente son poderosos». — Constance Wu"
   },
   284: {
   memoria: "Recordar el sabor dulce de un pastel de manzana.",
   ejercicio: ["Inclinar la cabeza suavemente hacia un hombro y luego al otro", "Empujar las palmas de las manos hacia adelante, como si empujaras una pared invisible", "Sentarse y levantar las rodillas alternando, como si marcharas", "Entrelazar los dedos de las manos y estirar los brazos hacia adelante", "Mover los tobillos en pequeños círculos"],
-  adivinanza: { pregunta: "Es un postre dulce con fruta. ¿Qué es?", respuesta: "El pastel de manzana" },
+  adivinanza: { pregunta: "Si me buscas no me encuentras; si no me buscas, aparezco.", respuesta: "La inspiración." },
   frase: "«No podemos resolver nuestros problemas con el mismo razonamiento que usamos cuando los creamos». — Albert Einstein"
   },
   285: {
   memoria: "Sentir el toque de una almohada suave.",
   ejercicio: ["Girar el tronco suavemente de lado a lado (sentado)", "Levantar los brazos extendidos por los lados, hasta la altura de los hombros", "Sentadillas muy suaves con apoyo en una silla", "Abrir los dedos de las manos y cerrarlos lentamente", "Poner los pies planos en el suelo y levantar solo los dedos"],
-  adivinanza: { pregunta: "Es suave y la usas para dormir. ¿Qué es?", respuesta: "La almohada" },
+  adivinanza: { pregunta: "Me comes de joven, me bebes de viejo.", respuesta: "La uva" },
   frase: "«Cambia tus pensamientos y cambiarás tu mundo». — Norman Vincent Peale"
   },
   286: {
   memoria: "Pensar en el sonido de un bebé riendo.",
   ejercicio: ["Mover los hombros en círculos suaves hacia adelante", "Estirar una pierna hacia adelante, sin levantarla mucho del suelo", "Levantar los talones del suelo a la vez, y bajarlos suavemente", "Mover los brazos hacia adelante y hacia atrás, como un péndulo", "Estirar los dedos de las manos uno por uno"],
-  adivinanza: { pregunta: "Es pequeño y su risa es la más bonita. ¿Quién es?", respuesta: "El bebé" },
-  frase: "La risa nos llena de alegría."
+  adivinanza: { pregunta: "Entro seca y salgo mojada; cuanto más te seco, más me mojo.", respuesta: "La toalla." },
+  frase:"El éxito no es un destino, es un viaje, disfrútalo"
   },
   287: {
   memoria: "Pensar en el suave ronroneo de un gato que descansa a tu lado.",
   ejercicio: ["Mover la cabeza suavemente de arriba a abajo", "Levantar las rodillas suavemente mientras estás sentado, una a la vez", "Estirar los brazos hacia adelante y luego traerlos hacia el cuerpo", "Mover los dedos de las manos individualmente", "Mover los pies lentamente en círculos pequeños"],
-  adivinanza: { pregunta: "Hace 'miau' y le gusta dormir siestas. ¿Qué es?", respuesta: "Un gato" },
-  frase: "En la calma de un abrazo, encontramos la paz."
+  adivinanza: { pregunta: "Entra dura, sale blanda y si no se usa se enfada.", respuesta: "La pasta" },
+  frase:"Conviértete en el cambio que deseas ver en el mundo"
   },
   288: {
   memoria: "Recordar el sabor del pan fresco recién salido del horno.",
   ejercicio: ["Girar la cabeza suavemente de lado a lado", "Encoger los hombros hacia las orejas y luego soltarlos", "Levantar los talones mientras estás sentado, y luego bajarlos", "Abrir y cerrar los puños suavemente", "Apuntar y flexionar los dedos de los pies"],
-  adivinanza: { pregunta: "Lo horneas y lo comes con mantequilla. ¿Qué es?", respuesta: "El pan" },
-  frase: "Cada bocado guarda el calor de un hogar."
+  adivinanza: { pregunta: "Sin patas corro; sin pulmones respiro; sin boca silbo.", respuesta: "El viento." },
+  frase:"Un sueño no se hace realidad a través de la magia; toma sudor, determinación y trabajo duro-Colin Powell."
   },
   289: {
   memoria: "Sentir el calor de un rayo de sol en tu piel.",
   ejercicio: ["Girar los hombros lentamente hacia adelante en círculos", "Doblar y estirar suavemente los codos", "Levantar los dedos de los pies del suelo mientras estás sentado, y luego bajarlos", "Estirar los brazos hacia los lados, y luego juntarlos", "Mover la cabeza suavemente en círculos pequeños"],
-  adivinanza: { pregunta: "Nos da luz y calor cada día. ¿Qué es?", respuesta: "El sol" },
-  frase: "Tu corazón brilla con la misma luz."
+  adivinanza: { pregunta: "Si me cuidas, crezco; si me olvidas, muero; si me compartes, inspiro.", respuesta: "La amistad." },
+  frase:"La mejor manera de predecir el futuro es crearlo"
   },
   290: {
   memoria: "Recordar el sonido de la lluvia suave golpeando una ventana.",
   ejercicio: ["Balancear tu cuerpo suavemente de lado a lado mientras estás sentado", "Levantar los brazos lentamente por encima de la cabeza, y luego bajarlos", "Marchar en el lugar mientras estás sentado, levantando las rodillas ligeramente", "Abrir las manos por completo, y luego cerrarlas suavemente", "Golpear los pies suavemente en el suelo"],
-  adivinanza: { pregunta: "Cae del cielo y hace charcos. ¿Qué es?", respuesta: "La lluvia" },
-  frase: "Cada gota es un susurro de consuelo."
+  adivinanza: { pregunta: "Vuela de día, duerme en tu mano y nunca se cansa.", respuesta: "La sombra" },
+  frase: "No tengas miedo de fallar, ten miedo de no intentarlo"
   },
   291: {
   memoria: "Pensar en el olor a hierba recién cortada.",
   ejercicio: ["Inclinar la cabeza suavemente hacia un hombro, y luego hacia el otro", "Empujar las palmas de las manos hacia adelante como si empujaras una pared suave", "Deslizar un pie hacia adelante y hacia atrás en el suelo, y luego el otro", "Mover los pulgares y luego los otros dedos", "Girar los tobillos suavemente en círculos"],
-  adivinanza: { pregunta: "Es verde y necesita ser cortada. ¿Qué es?", respuesta: "La hierba" },
-  frase: "Un aroma que abraza el alma."
+  adivinanza: { pregunta: "Miro al mundo y no tengo ojos; hablo de todo y no tengo voz.", respuesta: "El periódico." },
+  frase: "Eres más fuerte de lo que piensas, confía en tu fortaleza"
   },
   292: {
   memoria: "Recordar el sabor de una manzana fría y crujiente.",
   ejercicio: ["Girar la cabeza lentamente para mirar por encima de cada hombro", "Estirar un brazo hacia arriba como si fueras a coger una fruta, y luego el otro", "Golpear suavemente los pies en el suelo (mientras estás sentado)", "Aplaudir las manos suavemente", "Enroscar y desenroscar los dedos de los pies"],
-  adivinanza: { pregunta: "Es una fruta, roja o verde, y buena para ti. ¿Qué es?", respuesta: "Una manzana" },
-  frase: "La vida es dulce en cada mordisco."
+  adivinanza: { pregunta: "Tiene agujeros y guarda agua.", respuesta: "La esponja." },
+  frase: "Cada día es una nueva oportunidad para volver a empezar"
   },
   293: {
   memoria: "Sentir la suavidad de una piedra pulida.",
   ejercicio: ["Girar las muñecas suavemente en ambas direcciones", "Levantar las rodillas altas mientras estás sentado, una a la vez", "Estirar los brazos hacia los lados y agitarlos suavemente", "Frotar las palmas de las manos lentamente", "Golpear suavemente los talones en el suelo"],
-  adivinanza: { pregunta: "Es dura y la encuentras en el suelo. ¿Qué es?", respuesta: "Una piedra" },
-  frase: "Incluso en lo pequeño, hay belleza eterna."
+  adivinanza: { pregunta: "Me quitas fuera y me dejas dentro; me quitas dentro y me dejas fuera.", respuesta: "El anzuelo en el pez." },
+  frase: "Incluso en las cosa pequeñas, hay belleza."
   },
   294: {
   memoria: "Recordar el sonido de los pájaros cantando por la mañana.",
   ejercicio: ["Girar los hombros lentamente hacia atrás en círculos", "Empujar los pies suavemente contra el suelo, y luego relajarlos", "Estirar las piernas completamente una a la vez mientras estás sentado", "Mover la nariz suavemente", "Abrir y cerrar la boca suavemente"],
-  adivinanza: { pregunta: "Vuelan y cantan dulces canciones. ¿Qué son?", respuesta: "Los pájaros" },
-  frase: "Su melodía es un regalo para el corazón."
+  adivinanza: { pregunta: "Me ves en el agua, pero no me mojo.", respuesta: "El reflejo." },
+  frase: "No pares cuando estés cansado. Para cuando hayas terminado."
   },
   295: {
   memoria: "Pensar en el olor a ropa limpia.",
   ejercicio: ["Inclinar la cabeza suavemente hacia adelante y hacia atrás", "Levantar los codos hacia los lados, y luego bajarlos", "Golpear suavemente los dedos de los pies en el suelo mientras estás sentado", "Golpear suavemente con los dedos en el regazo", "Estirar el cuello mirando hacia arriba y luego hacia abajo"],
-  adivinanza: { pregunta: "Las usas después de lavarlas. ¿Qué son?", respuesta: "La ropa" },
-  frase: "El dulce aroma del hogar en tu piel."
+  adivinanza: { pregunta: "Si me llamas, no respondo; si me gritas, tampoco; si me enciendes, hablo.", respuesta: "La radio/televisor." },
+  frase:"No limites tus desafíos, desafía tus límites"
   },
   296: {
   memoria: "Recordar el sabor de una galleta caliente.",
   ejercicio: ["Girar el torso lentamente de lado a lado mientras estás sentado", "Estirar los brazos por encima de la cabeza como si quisieras tocar una nube", "Patear suavemente una pierna hacia adelante, y luego la otra (mientras estás sentado)", "Tocar cada dedo con el pulgar", "Mover las orejas suavemente (si es posible)"],
-  adivinanza: { pregunta: "Es dulce, redonda y crujiente. ¿Qué es?", respuesta: "Una galleta" },
-  frase: "Un pequeño placer que endulza el alma."
+  adivinanza: { pregunta: "No soy coche y tengo llaves; no soy caja y tengo dientes.", respuesta: "El teclado." },
+  frase: "El crecimiento personal es el reconocimiento de que siempre estamos en proceso de ser mejor"
   },
   297: {
   memoria: "Sentir el suave calor de una manta blanda.",
   ejercicio: ["Girar la cabeza suavemente en círculos pequeños", "Empujar los brazos hacia adelante, y luego traerlos de vuelta al pecho", "Levantar las rodillas ligeramente del suelo, una a la vez, mientras estás de pie con apoyo", "Frotar las manos para crear calor", "Estirar los dedos de las manos ampliamente"],
-  adivinanza: { pregunta: "Te mantiene caliente por la noche. ¿Qué es?", respuesta: "Una manta" },
-  frase: "Envuelto en calor, envuelto en amor."
+  adivinanza: { pregunta: "Siempre está delante de ti, pero nunca lo podrás ver.", respuesta: "El futuro." },
+  frase: "Cree en ti mismo y en todo lo que eres. Saber que hay algo dentro de ti que es más grande que cualquier obstáculo"
   },
   298: {
   memoria: "Recordar el sonido de una suave brisa moviendo las hojas.",
   ejercicio: ["Encoger los hombros lentamente hacia arriba y hacia abajo", "Estirar las piernas completamente mientras estás sentado y mantenerlas brevemente", "Balancear tu cuerpo suavemente de lado a lado", "Abrir y cerrar la boca lentamente", "Golpear los pies ligeramente en el suelo"],
-  adivinanza: { pregunta: "La puedes sentir, pero no la ves. Mueve las hojas. ¿Qué es?", respuesta: "El viento" },
-  frase: "Cada soplo es un suspiro de la naturaleza."
+  adivinanza: { pregunta: "Tengo cuello pero no cabeza, dos brazos pero sin manos.", respuesta: "La camisa." },
+  frase: "Cuando nada es seguro, todo es posible"
   },
   299: {
   memoria: "Pensar en el olor de una naranja recién pelada.",
   ejercicio: ["Inclinar la cabeza suavemente hacia un lado, y luego hacia el otro", "Hacer círculos con los brazos hacia adelante lentamente", "Levantar un talón, y luego el otro, mientras estás de pie con apoyo", "Apretar suavemente una pelota blanda (o hacer un puño)", "Estirar los dedos de los pies lo más que puedas"],
-  adivinanza: { pregunta: "Es naranja, redonda, y tiene un olor dulce. ¿Qué es?", respuesta: "Una naranja" },
-  frase: "La frescura que alegra tu espíritu."
+  adivinanza: { pregunta: "Me rompen antes de usarse y luego protejo lo que llevo.", respuesta: "El huevo" },
+  frase: "Prohibido rendirse, respira hondo y sigue."
   },
   300: {
   memoria: "Recordar el sabor de un refrescante vaso de agua.",
   ejercicio: ["Girar la cabeza lentamente de lado a lado, como si buscaras algo", "Empujar los brazos hacia tu regazo, y luego relajarlos", "Balancearse suavemente hacia adelante y hacia atrás en la silla", "Mover la nariz y luego las cejas suavemente", "Mover los pies en círculos grandes mientras estás sentado"],
-  adivinanza: { pregunta: "Es transparente, la bebes y no tiene sabor. ¿Qué es?", respuesta: "El agua" },
-  frase: "Cada sorbo es un respiro de vida."
+  adivinanza: { pregunta: "Me mojas para escribir y me dejas seca al terminar.", respuesta: "La pluma/bolígrafo" },
+  frase: "Cree en ti mismo, el mundo necesita tu luz"
   },
   301: {
   memoria: "Sentir la suavidad de una fruta en tu mano.",
   ejercicio: ["Girar la cabeza suavemente en círculos pequeños", "Levantar los brazos hacia los lados, y luego cruzarlos sobre el pecho", "Golpear suavemente los pies en el suelo, alternando", "Frotar los lóbulos de las orejas suavemente", "Abrir y cerrar los ojos lentamente"],
-  adivinanza: { pregunta: "Crece en un árbol y es buena para comer. ¿Qué es?", respuesta: "La fruta" },
-  frase: "En la naturaleza, hay dulzura y bondad."
+  adivinanza: { pregunta: "En invierno me buscas, en verano me evitas; a veces soy manta, a veces soy herida.", respuesta: "El sol." },
+  frase: "A veces es cuestión de dar un paso más. No te rindas ahora"
   },
   302: {
   memoria: "Recordar el sonido de pasos suaves.",
   ejercicio: ["Girar los hombros lentamente hacia adelante y hacia atrás", "Estirar los brazos por encima de la cabeza y entrelazar las manos", "Marchar en el lugar con pasos suaves y lentos (de pie o sentado)", "Presionar suavemente las yemas de los dedos", "Mover los pies de un lado a otro"],
-  adivinanza: { pregunta: "Los haces cuando caminas. ¿Qué son?", respuesta: "Los pasos" },
-  frase: "Cada paso te acerca a la paz."
+  adivinanza: { pregunta: "Voy de boca en boca sin ser comida y, si me cambias, puedo cambiar el día.", respuesta: "La palabra." },
+  frase: "Deja un legado positivo, tu huella en el mundo"
   },
   303: {
   memoria: "Pensar en el olor de las galletas horneándose.",
   ejercicio: ["Inclinar la cabeza suavemente hacia un hombro, y luego hacia el otro", "Empujar las manos hacia abajo como si presionaras un resorte", "Levantar una rodilla hacia tu pecho, y luego la otra (sentado)", "Golpear suavemente con los dedos en tu regazo", "Golpear suavemente los dedos de los pies en el suelo"],
-  adivinanza: { pregunta: "Huelen tan bien cuando están en el horno. ¿Qué son?", respuesta: "Las galletas" },
-  frase: "Un aroma que te envuelve en dulzura."
+  adivinanza: { pregunta: "Me ves una vez en un minuto, dos veces en un momento y nunca en cien años.", respuesta: "La letra “m”." },
+  frase: "Cree en ti mismo, el mundo necesita tu luz"
   },
   304: {
   memoria: "Recordar el sabor de una simple galleta salada.",
   ejercicio: ["Girar el torso lentamente de lado a lado (sentado, suave)", "Estirar un brazo por delante del cuerpo, y luego el otro", "Balancear suavemente los pies de lado a lado", "Mover los dedos de las manos y luego los de los pies", "Abrir y cerrar las manos lentamente"],
-  adivinanza: { pregunta: "Es delgada, crujiente y salada. ¿Qué es?", respuesta: "Una galleta salada" },
-  frase: "La simplicidad de un buen recuerdo."
+  adivinanza: { pregunta: "Tiene dientes pero no come; guarda secretos pero no habla.", respuesta: "El cepillo de dientes" },
+  frase: "Eres capaz de lograr cosas increíbles. Confía en el proceso y sigue adelante"
   },
   305: {
   memoria: "Sentir el suave calor de una taza de té en tus manos.",
   ejercicio: ["Girar las muñecas suavemente en ambas direcciones", "Levantar los hombros hacia arriba y hacia abajo lentamente", "Deslizar los pies hacia adelante y hacia atrás debajo de la silla", "Frotar suavemente los lóbulos de las orejas", "Golpear suavemente los talones en el suelo"],
-  adivinanza: { pregunta: "Está caliente y la bebes de una taza. ¿Qué es?", respuesta: "El té" },
-  frase: "Un momento cálido que reconforta el alma."
+  adivinanza: { pregunta: "Camino sin moverme, entro en casas y no toco nada; a veces canto, a veces cuento.", respuesta: "La radio" },
+  frase: "No importa lo lento que vayas, mientras no te detengas. ¡Sigue avanzando!"
   },
   306: {
   memoria: "Recordar el sonido de un arroyo que fluye suavemente.",
   ejercicio: ["Girar los hombros lentamente hacia atrás en círculos", "Estirar suavemente una pierna completamente y mantenerla, y luego la otra", "Balancear tu cuerpo suavemente de lado a lado mientras estás sentado", "Mover los dedos de las manos como si tocaras un piano", "Presionar suavemente los dedos de los pies contra el suelo"],
-  adivinanza: { pregunta: "Es pequeño, fluye y tiene agua. ¿Qué es?", respuesta: "Un arroyo" },
-  frase: "Deja que la calma te envuelva."
+  adivinanza: { pregunta: "Puedes romperme sin tocarme, puedes guardarme sin tener manos; a veces me doy con palabras y otras con miradas. ¿Qué soy?", respuesta: "Una promesa." },
+  frase: "Aunque hoy parezca difícil, recuerda: ya superaste días que pensabas imposibles. Tú puedes con este también."
   },
   307: {
   memoria: "Pensar en el olor de una flor recién abierta.",
@@ -2307,7 +2307,6 @@ function obtenerClaveDelDia(dia, mes) {
   for (let i = 0; i < mes; i++) total += diasPorMes[i];
   return total + dia;
 }
-
 function hablarChronojar() {
   if (conversacionActiva) {
     reconocimiento.stop();
@@ -2319,19 +2318,19 @@ function hablarChronojar() {
   reconocimiento = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
   reconocimiento.lang = "es-ES";
   reconocimiento.interimResults = false;
-  reconocimiento.continuous = true;
+  reconocimiento.continuous = false; // 👈 usamos turnos
   reconocimiento.maxAlternatives = 1;
 
   reconocimiento.onstart = () => {
     conversacionActiva = true;
-    document.getElementById("respuestaChronojar").textContent = "🎧 Te estoy escuchando... Di 'adiós' para terminar.";
+    document.getElementById("respuestaChronojar").textContent =
+      "🎧 Te estoy escuchando... Di 'adiós' para terminar.";
   };
 
   reconocimiento.onresult = (event) => {
     let textoEscuchado = event.results[event.resultIndex][0].transcript.toLowerCase().trim();
 
-    // Ignorar silencios o sonidos muy cortos
-    if (!textoEscuchado || textoEscuchado.length < 3) return;
+    if (!textoEscuchado || textoEscuchado.length < 2) return;
 
     document.getElementById("respuestaChronojar").textContent = `Dijiste: "${textoEscuchado}"`;
 
@@ -2344,31 +2343,25 @@ function hablarChronojar() {
         "¡Fue un gusto ayudarte!"
       ];
       const mensajeDespedida = despedidas[Math.floor(Math.random() * despedidas.length)];
-
-      document.getElementById("respuestaChronojar").textContent = mensajeDespedida;
-
-      const voz = new SpeechSynthesisUtterance(mensajeDespedida.replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, ""));
-      voz.lang = "es-ES";
-      if (vozElegida) voz.voice = vozElegida;
-      speechSynthesis.speak(voz);
-
-      reconocimiento.stop();
+      responderConVoz(mensajeDespedida, false); // 👈 no sigue escuchando
       conversacionActiva = false;
+      reconocimiento.stop();
       return;
     }
 
-    responderConVoz(textoEscuchado);
+    responderConVoz(textoEscuchado, true); // 👈 sigue conversando
   };
 
   reconocimiento.onerror = () => {
-    document.getElementById("respuestaChronojar").textContent = "❌ No pude escucharte. Intenta otra vez.";
+    document.getElementById("respuestaChronojar").textContent =
+      "❌ No pude escucharte. Intenta otra vez.";
     conversacionActiva = false;
   };
 
   reconocimiento.start();
 }
 
-function responderConVoz(mensajeUsuario) {
+function responderConVoz(mensajeUsuario, continuar = true) {
   const respuesta = generarRespuesta(mensajeUsuario);
   const respuestaSinEmojis = respuesta.replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, "");
 
@@ -2377,109 +2370,133 @@ function responderConVoz(mensajeUsuario) {
   const voz = new SpeechSynthesisUtterance(respuestaSinEmojis);
   if (vozElegida) voz.voice = vozElegida;  
   voz.lang = "es-ES";
-  speechSynthesis.speak(voz);
-}
 
-function generarRespuesta(texto) {
-  const hoy = new Date();
-  const diaHoy = hoy.getDate();
-  const mesHoy = hoy.getMonth();
-  const claveHoy = obtenerClaveDelDia(diaHoy, mesHoy);
-  const actividadHoy = actividadesPorDia[claveHoy];
-  const notaHoy = localStorage.getItem(`nota-dia-${claveHoy}`)?.trim();
-
-  const meses = {
-    enero: 0, febrero: 1, marzo: 2, abril: 3, mayo: 4, junio: 5,
-    julio: 6, agosto: 7, septiembre: 8, octubre: 9, noviembre: 10, diciembre: 11
-  };
-
-  // 📅 Leer actividades por fecha ("15 de agosto")
-  const matchFecha = texto.match(/(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)/i);
-  if (matchFecha) {
-    const dia = parseInt(matchFecha[1]);
-    const mesTexto = matchFecha[2].toLowerCase();
-    const mes = meses[mesTexto];
-    const clave = obtenerClaveDelDia(dia, mes);
-    const actividad = actividadesPorDia[clave];
-    const nota = localStorage.getItem(`nota-dia-${clave}`)?.trim();
-
-    if (!actividad) return `No encontré actividades para el ${dia} de ${mesTexto}.`;
-    let respuesta = `📅 El ${dia} de ${mesTexto}: Memoria: ${actividad.memoria}. Frase: ${actividad.frase}.`;
-    if (actividad.ejercicio) respuesta += ` Ejercicios: ${actividad.ejercicio.join(", ")}.`;
-    if (nota) respuesta += ` Nota personalizada: ${nota}`;
-    return respuesta;
-  }
-
-  if (texto.includes("ejercicio")) {
-    if (!actividadHoy?.ejercicio) return "Lo siento, no tengo ejercicios registrados para hoy.";
-    return `🏃 Hoy te recomiendo hacer: ${actividadHoy.ejercicio.join(", ")}.`;
-  }
-
-  if (texto.includes("me llamo")) {
-    const nombreDetectado = texto.replace("me llamo", "").trim();
-    if (nombreDetectado.length > 0) {
-      nombreUsuario = nombreDetectado;
-      localStorage.setItem("nombreUsuario", nombreUsuario);
-      return `Encantado de conocerte, ${nombreUsuario}. ¡Te recordaré! 😊`;
-    } else {
-      return "No entendí bien tu nombre. Inténtalo otra vez.";
+  voz.onend = () => {
+    if (conversacionActiva && continuar) {
+      setTimeout(() => reconocimiento.start(), 500); // 👈 vuelve a escuchar después de medio segundo
     }
+  };
+  speechSynthesis.speak(voz);
   }
 
-  if (texto.includes("cómo me llamo")) {
-    return nombreUsuario ? `Te llamas ${nombreUsuario}.` : "Aún no me has dicho tu nombre.";
+  function generarRespuesta(texto) {
+    const hoy = new Date();
+    const diaHoy = hoy.getDate();
+    const mesHoy = hoy.getMonth();
+    const claveHoy = obtenerClaveDelDia(diaHoy, mesHoy);
+    const actividadHoy = actividadesPorDia[claveHoy];
+    const notaHoy = localStorage.getItem(`nota-dia-${claveHoy}`)?.trim();
+
+    const meses = {
+      enero: 0, febrero: 1, marzo: 2, abril: 3, mayo: 4, junio: 5,
+      julio: 6, agosto: 7, septiembre: 8, octubre: 9, noviembre: 10, diciembre: 11
+    };
+
+    // 📅 Leer o guardar actividades por fecha específica ("15 de agosto")
+    const matchFecha = texto.match(/(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)/i);
+    if (matchFecha) {
+      const dia = parseInt(matchFecha[1]);
+      const mesTexto = matchFecha[2].toLowerCase();
+      const mes = meses[mesTexto];
+      const clave = obtenerClaveDelDia(dia, mes);
+      const actividad = actividadesPorDia[clave];
+      let nota = localStorage.getItem(`nota-dia-${clave}`)?.trim();
+
+      // 👉 Caso: guardar una nota en esa fecha
+      if (texto.includes("guarda que")) {
+        const notaGuardada = texto.split("guarda que")[1]?.trim();
+        if (!notaGuardada) return "¿Qué quieres que guarde?";
+        localStorage.setItem(`nota-dia-${clave}`, notaGuardada);
+        return `✅ Nota guardada para el ${dia} de ${mesTexto}: "${notaGuardada}"`;
+      }
+
+      // 👉 Caso: solo leer la nota personalizada de esa fecha
+      if (texto.includes("qué anoté") || texto.includes("qué nota")) {
+        return nota
+          ? `📓 Tu nota del ${dia} de ${mesTexto} dice: ${nota}`
+          : `No encontré ninguna nota guardada para el ${dia} de ${mesTexto}.`;
+      }
+
+      // 👉 Caso: leer lo que hay ese día (actividades + nota)
+      if (!actividad) return `No encontré actividades para el ${dia} de ${mesTexto}.`;
+
+      let respuesta = `📅 El ${dia} de ${mesTexto}: Memoria: ${actividad.memoria}. Frase: ${actividad.frase}.`;
+      if (actividad.ejercicio) respuesta += ` Ejercicios: ${actividad.ejercicio.join(", ")}.`;
+      if (nota) respuesta += ` Nota personalizada: ${nota}`;
+      return respuesta;
+    }
+
+    if (texto.includes("ejercicio")) {
+      if (!actividadHoy?.ejercicio) return "Lo siento, no tengo ejercicios registrados para hoy.";
+      return `🏃 Hoy te recomiendo hacer: ${actividadHoy.ejercicio.join(", ")}.`;
+    }
+
+    if (texto.includes("me llamo")) {
+      const nombreDetectado = texto.replace("me llamo", "").trim();
+      if (nombreDetectado.length > 0) {
+        nombreUsuario = nombreDetectado;
+        localStorage.setItem("nombreUsuario", nombreUsuario);
+        return `Encantado de conocerte, ${nombreUsuario}. ¡Te recordaré! 😊`;
+      } else {
+        return "No entendí bien tu nombre. Inténtalo otra vez.";
+      }
+    }
+
+    if (texto.includes("cómo me llamo")) {
+      return nombreUsuario ? `Te llamas ${nombreUsuario}.` : "Aún no me has dicho tu nombre.";
+    }
+
+    if (
+      texto.includes("actividad") ||
+      texto.includes("qué hay hoy") ||
+      texto.includes("qué tengo que hacer hoy")
+    ) {
+      if (!actividadHoy) return "Lo siento, no tengo registrada una actividad para hoy.";
+      let respuesta = `📌 Hoy debes: ${actividadHoy.memoria}. Tu frase es: ${actividadHoy.frase}.`;
+      if (notaHoy) respuesta += ` Y tu nota escrita dice: ${notaHoy}`;
+      return respuesta;
+    }
+
+    if (texto.includes("adivinanza")) {
+      if (!actividadHoy?.adivinanza) return "Lo siento, no encontré una adivinanza para hoy.";
+      return `🧩 Aquí va: ${actividadHoy.adivinanza.pregunta}. Si quieres la respuesta, haz clic en el calendario.`;
+    }
+
+    if (texto.includes("guarda que")) {
+      const nota = texto.split("guarda que")[1]?.trim();
+      if (!nota) return "¿Qué quieres que guarde?";
+      localStorage.setItem(`nota-dia-${claveHoy}`, nota);
+      const textarea = document.querySelector(`#nota-dia-${claveHoy}`);
+      if (textarea) textarea.value = nota;
+      return `✅ Nota guardada para hoy: "${nota}"`;
+    }
+
+    if (
+      texto.includes("lee mis nota") ||
+      texto.includes("qué anoté hoy") ||
+      texto.includes("qué escribí hoy") ||
+      texto.includes("qué tengo para hoy")
+    ) {
+      return notaHoy ? `📓 Tu nota de hoy dice: ${notaHoy}` : "No encontré ninguna nota guardada para hoy.";
+    }
+
+    if (texto.includes("hola")) {
+      return nombreUsuario ? `¡Hola ${nombreUsuario}! ¿Cómo estás?` : "¡Hola! ¿Cómo te llamas?";
+    }
+
+    if (texto.includes("cómo estás")) return "¿Cómo estás tú?";
+    if (texto.includes("bien") || texto.includes("muy bien")) return "¡Me alegra saber que estás bien!";
+    if (texto.includes("mal") || texto.includes("triste") || texto.includes("no muy bien")) return "No te preocupes, todo mejora con el tiempo. Estoy contigo 💖";
+
+    if (texto.includes("quién eres")) return "Soy Chronojar, tu calendario y asistente virtual.";
+    if (texto.includes("qué día es hoy")) {
+      return `Hoy es ${hoy.toLocaleDateString("es-ES", { weekday: "long", day: "numeric", month: "long" })}.`;
+    }
+
+    if (texto.includes("gracias")) return "¡Con gusto! Para eso estoy.";
+
+    return "Lo siento, aún no entiendo eso. Pero estoy aprendiendo 😊";
   }
 
-  if (
-    texto.includes("actividad") ||
-    texto.includes("qué hay hoy") ||
-    texto.includes("qué tengo que hacer hoy")
-  ) {
-    if (!actividadHoy) return "Lo siento, no tengo registrada una actividad para hoy.";
-    let respuesta = `📌 Hoy debes: ${actividadHoy.memoria}. Tu frase es: ${actividadHoy.frase}.`;
-    if (notaHoy) respuesta += ` Y tu nota escrita dice: ${notaHoy}`;
-    return respuesta;
-  }
-
-  if (texto.includes("adivinanza")) {
-    if (!actividadHoy?.adivinanza) return "Lo siento, no encontré una adivinanza para hoy.";
-    return `🧩 Aquí va: ${actividadHoy.adivinanza.pregunta}. Si quieres la respuesta, haz clic en el calendario.`;
-  }
-
-  if (texto.includes("guarda que")) {
-    const nota = texto.split("guarda que")[1]?.trim();
-    if (!nota) return "¿Qué quieres que guarde?";
-    localStorage.setItem(`nota-dia-${claveHoy}`, nota);
-    const textarea = document.querySelector(`#nota-dia-${claveHoy}`);
-    if (textarea) textarea.value = nota;
-    return `✅ Nota guardada para hoy: "${nota}"`;
-  }
-
-  if (
-    texto.includes("lee mis nota") ||
-    texto.includes("qué anoté hoy") ||
-    texto.includes("qué escribí hoy") ||
-    texto.includes("qué tengo para hoy")
-  ) {
-    return notaHoy ? `📓 Tu nota de hoy dice: ${notaHoy}` : "No encontré ninguna nota guardada para hoy.";
-  }
-
-  if (texto.includes("hola")) {
-    return nombreUsuario ? `¡Hola ${nombreUsuario}! ¿Cómo estás?` : "¡Hola! ¿Cómo te llamas?";
-  }
-
-  if (texto.includes("cómo estás")) return "¿Cómo estás tú?";
-  if (texto.includes("bien") || texto.includes("muy bien")) return "¡Me alegra saber que estás bien!";
-  if (texto.includes("mal") || texto.includes("triste") || texto.includes("no muy bien")) return "No te preocupes, todo mejora con el tiempo. Estoy contigo 💖";
-
-  if (texto.includes("quién eres")) return "Soy Chronojar, tu calendario y asistente virtual.";
-  if (texto.includes("qué día es hoy")) {
-    return `Hoy es ${hoy.toLocaleDateString("es-ES", { weekday: "long", day: "numeric", month: "long" })}.`;
-  }
-
-  if (texto.includes("gracias")) return "¡Con gusto! Para eso estoy.";
-
-  return "Lo siento, aún no entiendo eso. Pero estoy aprendiendo 😊";
-}
-
-window.speechSynthesis.onvoiceschanged = seleccionarVoz;
+  window.speechSynthesis.onvoiceschanged = seleccionarVoz;
+ 
